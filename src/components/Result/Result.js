@@ -9,7 +9,7 @@ function Result(props) {
       {props.data.map((user) => (
         <Card key={user.id}>
         <li key={user.id} className={styles.element}>
-          {user.username} ({user.age} years old)
+          {user.input.username} ({user.input.age} years old)
         </li>
         </Card>
       ))}

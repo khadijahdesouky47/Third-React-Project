@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Third-React-Project/static/css/main.d8f55758.css",
+    "main.js": "/Third-React-Project/static/js/main.cf3e792d.js",
+    "index.html": "/Third-React-Project/index.html",
+    "main.d8f55758.css.map": "/Third-React-Project/static/css/main.d8f55758.css.map",
+    "main.cf3e792d.js.map": "/Third-React-Project/static/js/main.cf3e792d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f55758.css",
+    "static/js/main.cf3e792d.js"
+  ]
+}
